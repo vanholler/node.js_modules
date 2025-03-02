@@ -7,7 +7,6 @@
 | buffer                         | Модуль для работы с бинарными данными                                    | [buffer.md](modules/buffer.md)          | [Документация](https://nodejs.org/api/buffer.html) |
 | child_process                  | Модуль для создания дочерних процессов                                   | [child_process.md](modules/child_process.md) | [Документация](https://nodejs.org/api/child_process.html) |
 | cluster                        | Модуль для создания многопроцессорных приложений                        | [cluster.md](modules/cluster.md)        | [Документация](https://nodejs.org/api/cluster.html) |
-| command_line_API               | API для работы с командной строкой                                       | [command_line_API.md](modules/command_line_API.md) | [Документация](https://nodejs.org/api/cli.html) |
 | console                        | Модуль для вывода информации в консоль                                   | [console.md](modules/console.md)        | [Документация](https://nodejs.org/api/console.html) |
 | crypto                         | Модуль для работы с криптографией                                        | [crypto.md](modules/crypto.md)          | [Документация](https://nodejs.org/api/crypto.html) |
 | dgram                         | Модуль для работы с UDP сокетами                                         | [dgram.md](modules/dgram.md)           | [Документация](https://nodejs.org/api/dgram.html) |
